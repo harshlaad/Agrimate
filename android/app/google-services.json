@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1095374447060",
+    "firebase_url": "https://agrimate-8be70.firebaseio.com",
+    "project_id": "agrimate-8be70",
+    "storage_bucket": "agrimate-8be70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095374447060:android:54aaad7c7ed4f56152b641",
+        "android_client_info": {
+          "package_name": "android.agrimate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095374447060-ft31hvchgvbvj0f6kmgugs91sp3c40sr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "android.agrimate",
+            "certificate_hash": "414ce2971d170f210158a3dc211c66f91649b9f0"
+          }
+        },
+        {
+          "client_id": "1095374447060-3533oajvk77064qrekdlr3dsbkusdnjk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDahgkm5Wp2etaU88xXQijMVUDvLYroKN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095374447060-3533oajvk77064qrekdlr3dsbkusdnjk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
